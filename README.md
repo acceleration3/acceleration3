@@ -17,13 +17,21 @@
 
 <div align="center">
   
-  <a href="">![acceleration3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acceleration3&theme=radical&show_icons=true&hide_border=false&layout=compact)</a>
-  <a href="">![acceleration3's Stats](https://github-readme-stats.vercel.app/api?username=acceleration3&theme=radical&show_icons=true&hide_border=false&count_private=true)</a>
+  ![acceleration3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acceleration3&theme=radical&show_icons=true&hide_border=false&layout=compact)
+  ![acceleration3's Stats](https://github-readme-stats.vercel.app/api?username=acceleration3&theme=radical&show_icons=true&hide_border=false&count_private=true)
   
 </div>
 
+## Skills 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,cmake,ts,js,html,css,php,nodejs,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,powershell,bash,cmake,ts,js,html,css,php,nodejs,angular)](https://skillicons.dev)
+  
+</div>
+
+## Tools
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=linux,androidstudio,vscode,visualstudio,eclipse,git)](https://skillicons.dev)
   
 </div>
